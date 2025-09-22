@@ -1,4 +1,8 @@
 // C program for Merge Sort
+/*
+This code is a mergesort algorithm.
+This code has been modificatied on the Branch1
+*/
 #include <stdio.h>
 #include <stdlib.h>
 
